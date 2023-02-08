@@ -1,5 +1,10 @@
 {
+  "scripts": {
+    "build": "parcel build index.html",
+    "dev": "parcel index.html"
+  },
   "devDependencies": {
-    "parcel": "^2.8.3"
+    "parcel": "^2.8.3",
+    "sharp": "^0.31.1"
   }
 }
